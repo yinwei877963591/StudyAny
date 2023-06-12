@@ -115,7 +115,23 @@ public class HomeWork01(){
 
 ##### 作业3
 
+```java
+//JDK，JRE，JVM的关系
+public class HomeWorld03(){
+  public static void main(String[] args){
+    System.out.println("答：1、JDK = JRE + java开发工具\n2、JRE = JVM + 核心内库");
+  }
+}
 ```
 
+##### 作业4
+
+```java
+//环境变量path配置及其作用
+public class HomeWorld04(){
+  public static void main(String[] args){
+    System.out.println("1、环境变量的作用是为了在dos的任意目录，可以去使用java 和 javac\n2、先配置 JAVA_HOME = 指向JDK安装的主目录\n3、编辑path环境，增加 %JAVA_HOME%\bin");
+  }
+}
 ```
 
