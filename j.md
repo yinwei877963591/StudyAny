@@ -250,8 +250,6 @@ public class CharDetail(){
 }
 ```
 
-
-
 - ##### 布尔型（boolean(1)）,存放true，false
 
 ### 引用数据类型
